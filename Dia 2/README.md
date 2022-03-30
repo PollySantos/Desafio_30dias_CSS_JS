@@ -1,10 +1,12 @@
-## Botão com efeito hover
+## 🔘 Botão com efeito hover
 
-<p aling:"center">
-    <img width="180" src="assets/botao_efeito_hover.png">
-</p>
+<div align="center">
+  <img height="450em" src="https://user-images.githubusercontent.com/99842806/160924688-2ac90041-3d73-4efa-969b-2c9c3711a134.gif"/>
+</div>
 
-Aprendi:
+##
+
+O que aprendi:
 
 - :hover
 - ::before
@@ -12,4 +14,7 @@ Aprendi:
 - Transições
 - z-index
 
+##
+
+Fonte:
 https://www.w3schools.com/css/default.asp
