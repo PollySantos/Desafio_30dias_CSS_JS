@@ -1,0 +1,35 @@
+body
+{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: sans-serif;
+    background-color: black;
+}
+h1
+{
+    font-family: verdana;
+    font-size: 120px;
+    color: rgba(157, 71, 255, 0.336);
+    text-transform: uppercase;
+    position: relative;
+    border-style: 1px;
+    border: groove blueviolet;
+    box-shadow: 2px 6px 5px blueviolet;
+}
+h1::before 
+{
+    content: "Poliana";
+    position: absolute;
+    color: rgb(172, 71, 255);
+    overflow: hidden;
+    transition: all 1s;
+    width: 0;
+    
+}
+h1:hover::before
+{
+    width: 100%;
+}
