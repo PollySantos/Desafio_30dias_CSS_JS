@@ -1,4 +1,4 @@
-## [Dia2]🔘 Botão com efeito hover
+## [Dia3]🔘 Botão com efeito hover
 
 <div align="center">
   <img height="450em" src="https://user-images.githubusercontent.com/99842806/161789014-5cb36a27-1a2b-42e8-9a7f-c57dbdee09a4.gif"/>
