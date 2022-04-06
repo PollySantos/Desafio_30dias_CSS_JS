@@ -1,4 +1,4 @@
-## [Dia2]🔘 Botão com efeito hover
+## [Dia6]🔘 Botão resilia dia 6!
 
 <div align="center">
   <img height="450em" src="https://user-images.githubusercontent.com/99842806/161793290-628f6e67-4651-48c6-9b48-dbf9a1794fad.gif"/>
