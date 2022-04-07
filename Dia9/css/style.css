@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  background-color: rgb(169, 169, 233);
+  font-family: Arial;
+  display:grid;
+  height: 120vh;
+  place-items: center;
+
+}
+
+h1 {
+    font-size: 25px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: rgba(119, 61, 106, 0.788);
+    padding: 100px;
+    width: 25rem;
+    border: 3px solid blueviolet;
+ 
+}
+
+.box input {
+   color: black;
+   font-weight: bold;
+   height: 1.4rem;
+   
+    
+}
+
+.bto input {
+    margin-top: 30px;
+    padding: 2px 40px;
+    border: 2px solid blueviolet ;
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: rgb(162, 162, 255);
+    cursor: pointer;
+    background: transparent;
+
+}
+
+.bto input:hover,
+.bto input:focus {
+    background-color: rgb(169, 169, 233);
+    color: rgb(123, 14, 224);
+    outline: none;
+}
+
+#res {
+  padding: 20px;  
+  margin-top: 20px;
+  font-size: 20px;
+}
+.footer {
+    display: flex;
+    align-self:baseline;
+    margin-top: -50px;   
+}
+
+
+
