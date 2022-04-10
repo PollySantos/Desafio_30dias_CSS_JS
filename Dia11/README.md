@@ -1,16 +1,9 @@
-## [Dia10] 👾 Primeiros códigos com JavaScript
+## [Dia11] 👾 Primeiros códigos com JavaScript
 
-O que aprendi:
+Verificado de Idade simples
 
-- Entendendo const
-- Entendendo Map
+<div align="center">
+  <img height="450em" src="(https://user-images.githubusercontent.com/99842806/162641727-4a09c114-67b7-4584-8108-387320cf2e42.gif"/>
+</div>
 
-- script03
-(feito um programa que ler 2 números, somados é exibo uma mensagem com o resultado comparando se os valores são maiores, menores ou iguais a 100.)
-
-
-
-##
-
-Fonte:
-https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map
+(programa consiste em verificar a hora atual em que nos encontramos e de acordo com o horario a cor do background muda e imagem também.)
