@@ -1,7 +1,7 @@
 ## [Dia25]🔘 checkbox animado!
 
 <div align="center">
-  <img height="450em" src="https://user-images.githubusercontent.com/99842806/164642614-09376789-67d5-4f31-a8d2-42b22c5fac32.gif"/>
+  <img height="450em" src= box-animado.png>
 </div>
 
 ##
