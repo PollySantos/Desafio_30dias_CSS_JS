@@ -1,4 +1,4 @@
-## [Dia25]🔘 checkbox animado!
+## [Dia26]🔘 card magic!
 
 <div align="center">
   <img height="450em" src= box-animado.png>
@@ -8,13 +8,8 @@
 
 O que aprendi:
 
-- ::before
 - animations
 
-##
-
-Fonte:
-https://www.w3schools.com/css/default.asp
 
 ## Link do site:
-https://pollysantos.github.io/Desafio_30dias_Resilia/Dia25/
+https://pollysantos.github.io/Desafio_30dias_Resilia/Dia26/
