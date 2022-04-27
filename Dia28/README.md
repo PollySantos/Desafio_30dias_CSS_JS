@@ -1,4 +1,4 @@
-## [Dia27]🔘 Mentalista com tentativas (imersao Alura)!
+## [Dia28]🔘 Mentalista com tentativas (imersao Alura)!
 
 <div align="center">
   <img height="450em" src= ./alura.png>

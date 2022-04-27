@@ -29,10 +29,10 @@ function Chutar(){
    
    else {
      if (chute > numeroSecreto) {
-       elementoResultado.innerHTML = "Você          errou,tente novamente! Seu Palpite \(" + chute + ") é maior que o Numero Secreto" ;
+       elementoResultado.innerHTML = "Você errou,tente novamente! Seu Palpite \(" + chute + ") é maior que o Numero Secreto" ;
      }
      else{
-       elementoResultado.innerHTML = "Você          errou,tente novamente! Seu Palpite \(" + chute + ") é menor que o Numero Secreto" ;
+       elementoResultado.innerHTML = "Você errou,tente novamente! Seu Palpite \(" + chute + ") é menor que o Numero Secreto" ;
      }
      
      chutesRestantes.innerHTML = "Você tem " + qtdChute + " Chutes Restantes!"
