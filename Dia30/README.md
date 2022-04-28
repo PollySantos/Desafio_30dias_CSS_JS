@@ -22,5 +22,4 @@ O que aprendi:
 - ONCLICK
 
 ## Link do site:
-https://pollysantos.github.io/TextocomVideo_Audio
-/
+https://pollysantos.github.io/Dia30/
