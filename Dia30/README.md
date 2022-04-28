@@ -22,4 +22,4 @@ O que aprendi:
 - ONCLICK
 
 ## Link do site:
-https://pollysantos.github.io/Dia30/
+https://pollysantos.github.io/Desafio_30dias_CSS_JS/Dia30/
